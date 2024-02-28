@@ -5,3 +5,5 @@
 - 📫 Vous pouvez me contacter par email : bounou.yassine.sio@gmail.com.
 - ⚡ Fun fact : Savais-tu que le tout premier site web a été publié en 1991 par Tim Berners-Lee ? C'était une simple page expliquant l'utilisation du World Wide Web.
 Depuis, le développement web a connu une évolution incroyable, passant de simples pages HTML à des applications web interactives et dynamiques. Une révolution numérique fascinante en un peu plus de deux décennies !
+
+#### PS : Deux projets scolaires sont encore en cours de développement et seront publiés sur mon Github d'ici la fin de l'année scolaire...
